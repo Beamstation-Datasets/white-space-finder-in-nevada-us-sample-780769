@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Nevada that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Nevada, US",
-  "export_job_id": "78a4f35e-81d7-4e96-a624-387ef2c14901",
+  "export_job_id": "1aef338b-731e-42a2-bf59-2f967bec9da5",
   "github_org": "Beamstation-Datasets",
   "id_short": 780769,
   "location_name": "Nevada",
   "location_type": "state",
   "repo_name": "white-space-finder-in-nevada-us-sample-780769",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/780769/beamstation_780769_food_and_drink-us-nv_SAMPLE_DIST.csv",
-  "sample_pct": 8.33,
+  "sample_pct": 8.82,
   "sample_records": 3,
-  "sample_sha256": "d9227b04b1475e42ef04add3e39539b337402b1a7c8bfe0a6273624c166f2ab8",
-  "sample_size_bytes": 27628,
-  "total_records": 36,
-  "updated_at": "2026-04-07T16:32:27.717392+00:00"
+  "sample_sha256": "a51679f51d424c2b5fe03bf1c5533016eb036d8e26b84b859348373a47fdf515",
+  "sample_size_bytes": 26572,
+  "total_records": 34,
+  "updated_at": "2026-04-14T22:22:33.853722+00:00"
 }
