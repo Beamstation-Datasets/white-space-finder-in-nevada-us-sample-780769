@@ -9,9 +9,9 @@
 | Dataset ID | `780769` |
 | Location | Nevada |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-14T22:22:33.853722+00:00 |
+| Full dataset size | 30 records |
+| Free sample size | 3 records (10.0%) |
+| Last export | 2026-04-22T01:22:56.970425+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-nevada-us-sample-780769/releases/download/sample-latest/beamstation_780769_food_and_drink-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
