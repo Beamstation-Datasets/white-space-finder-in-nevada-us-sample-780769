@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cf61bcfe-2f00-40fe-a972-abdf85829fd2",
+  "export_job_id": "9b1ead95-486f-4648-ae9f-0b8cfafa5b81",
   "id_short": 780769,
-  "published_at": "2026-04-22T07:58:55Z",
+  "published_at": "2026-04-29T08:01:10Z",
   "repo_name": "white-space-finder-in-nevada-us-sample-780769",
   "sample_asset_name": "beamstation_780769_food_and_drink-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/780769/beamstation_780769_food_and_drink-us-nv_SAMPLE_DIST.csv",
   "sample_records": 3,
-  "sample_sha256": "8c30e8fa6543c141db8219d616eb79afd47c64e547136f931089666469163f6c",
-  "sample_size_bytes": 28196,
-  "total_records": 30
+  "sample_sha256": "8389b43fb4c7a956343a69ab234a492698060150aa52cde395939d6f7f4728f0",
+  "sample_size_bytes": 27025,
+  "total_records": 35
 }
